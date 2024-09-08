@@ -1,0 +1,27 @@
+[
+  {
+    "State": "Himachal Pradesh",
+    "Generation (MU)": 18766.91,
+    "Other Sources Generation (MU)": 2420.52
+  },
+  {
+    "State": "Jammu and Kashmir",
+    "Generation (MU)": 7471.29,
+    "Other Sources Generation (MU)": 155.86
+  },
+  {
+    "State": "Uttarakhand",
+    "Generation (MU)": 5298.51,
+    "Other Sources Generation (MU)": 1067.29
+  },
+  {
+    "State": "Karnataka",
+    "Generation (MU)": 2834.69,
+    "Other Sources Generation (MU)": 29917.72
+  },
+  {
+    "State": "Kerala",
+    "Generation (MU)": 2490.13,
+    "Other Sources Generation (MU)": 701.44
+  }
+]

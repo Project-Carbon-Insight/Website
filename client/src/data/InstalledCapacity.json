@@ -1,0 +1,59 @@
+{
+  "Fossil Fuel": {
+    "Coal": {
+      "Installed Generation Capacity (MW)": 205235,
+      "% of Share in Total": "49.1%"
+    },
+    "Lignite": {
+      "Installed Generation Capacity (MW)": 6620,
+      "% of Share in Total": "1.6%"
+    },
+    "Gas": {
+      "Installed Generation Capacity (MW)": 24824,
+      "% of Share in Total": "6.0%"
+    },
+    "Diesel": {
+      "Installed Generation Capacity (MW)": 589,
+      "% of Share in Total": "0.1%"
+    },
+    "Total Fossil Fuel": {
+      "Installed Generation Capacity (MW)": 237269,
+      "% of Share in Total": "56.8%"
+    }
+  },
+  "Non-Fossil Fuel": {
+    "Hydro": {
+      "Installed Generation Capacity (MW)": 46850,
+      "% of Share in Total": "11.2%"
+    },
+    "Wind/Solar/RE": {
+      "Installed Generation Capacity (MW)": 125692,
+      "% of Share in Total": "30.2%"
+    },
+
+    "BM Power/Cogen": {
+      "Installed Generation Capacity (MW)": 10248,
+      "% of Share in Total": "2.5%"
+    },
+    "Waste to Energy": {
+      "Installed Generation Capacity (MW)": 554,
+      "% of Share in Total": "0.1%"
+    },
+    "Small Hydro Power": {
+      "Installed Generation Capacity (MW)": 4944,
+      "% of Share in Total": "1.2%"
+    },
+    "Nuclear": {
+      "Installed Generation Capacity (MW)": 6780,
+      "% of Share in Total": "1.6%"
+    },
+    "Total Non-Fossil Fuel": {
+      "Installed Generation Capacity (MW)": 179322,
+      "% of Share in Total": "43.0%"
+    }
+  },
+  "Total Installed Capacity": {
+    "Installed Generation Capacity (MW)": 417668,
+    "% of Share in Total": "100%"
+  }
+}

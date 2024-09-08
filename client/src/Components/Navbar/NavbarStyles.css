@@ -1,0 +1,63 @@
+.navbar-container {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  transition: height 0.3s ease;
+
+  /* border-bottom: 2px solid black; */
+}
+.navbar-wrapper {
+  border-bottom: 2px solid black;
+}
+
+.navbar-container.shrunk {
+  height: 80px;
+}
+
+.image-container {
+  transition: width 0.3s ease;
+}
+
+.image-container img {
+  transition: width 0.3s ease;
+}
+
+.navbar-container.shrunk .image-container img {
+  width: 90px;
+}
+
+.navbar-heading {
+  font-family: "Satoshi-bold", sans-serif;
+  font-weight: 500;
+  font-size: 35px;
+  transition: font-size 0.3s ease;
+}
+.nav-link {
+  font-family: "satoshi-medium", sans-serif;
+  font-size: 18px;
+  transition: font-size 0.3s ease;
+}
+
+.navbar-container.shrunk .nav-link {
+  font-size: 15px;
+  transition: font-size 0.3s ease;
+}
+
+.navbar-container.shrunk .image-container h1 {
+  font-weight: 500;
+  font-size: 25px;
+  transition: font-size 0.3s ease;
+}
+
+.navbar-container .navbar-wrapper {
+  transition: border 0.3s ease;
+  transition: border-radius 0.1s ease-out;
+}
+
+.navbar-container.past-section2 .navbar-wrapper {
+  border: 2px solid black;
+  border-top: none;
+  border-radius: 0px 0px 30px 30px;
+  transition: border 0.3s ease;
+  transition: border-radius 0.1s ease-in;
+}

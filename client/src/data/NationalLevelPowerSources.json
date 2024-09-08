@@ -1,0 +1,68 @@
+[
+  {
+    "Year": "2015-16",
+    "Capacity (in GW)": 305,
+    "Capacity Addition (in GW)": 30,
+    "Generation (in BU)": 1168
+  },
+  {
+    "Year": "2016-17",
+    "Capacity (in GW)": 327,
+    "Capacity Addition (in GW)": 22,
+    "Generation (in BU)": 1236
+  },
+  {
+    "Year": "2017-18",
+    "Capacity (in GW)": 344,
+    "Capacity Addition (in GW)": 17,
+    "Generation (in BU)": 1304
+  },
+  {
+    "Year": "2018-19",
+    "Capacity (in GW)": 356,
+    "Capacity Addition (in GW)": 12,
+    "Generation (in BU)": 1372
+  },
+  {
+    "Year": "2019-20",
+    "Capacity (in GW)": 370,
+    "Capacity Addition (in GW)": 14,
+    "Generation (in BU)": 1383
+  },
+  {
+    "Year": "2020-21",
+    "Capacity (in GW)": 382,
+    "Capacity Addition (in GW)": 12,
+    "Generation (in BU)": 1373
+  },
+  {
+    "Year": "2021-22",
+    "Capacity (in GW)": 400,
+    "Capacity Addition (in GW)": 17,
+    "Generation (in BU)": 1484
+  },
+  {
+    "Year": "2022-23",
+    "Capacity (in GW)": 416,
+    "Capacity Addition (in GW)": 17,
+    "Generation (in BU)": 1618
+  },
+  {
+    "Year": "2023-24",
+    "Capacity (in GW)": 442,
+    "Capacity Addition (in GW)": 26,
+    "Generation (in BU)": 1734
+  },
+  {
+    "Year": "2024-25",
+    "Capacity (in GW)": 448,
+    "Capacity Addition (in GW)": 6,
+    "Generation (in BU)": 642
+  },
+  {
+    "Year": "",
+    "Capacity (in GW)": "",
+    "Capacity Addition (in GW)": "",
+    "Generation (in BU)": ""
+  }
+]

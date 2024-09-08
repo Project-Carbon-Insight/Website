@@ -1,0 +1,27 @@
+[
+  {
+    "State": "Uttar",
+    "Generation (MU)": 58372.96,
+    "Other Sources Generation (MU)": 4275.46
+  },
+  {
+    "State": "Chhattisgarh",
+    "Generation (MU)": 57645.06,
+    "Other Sources Generation (MU)": 1015.92
+  },
+  {
+    "State": "Madhya",
+    "Generation (MU)": 50744.65,
+    "Other Sources Generation (MU)": 5981.1
+  },
+  {
+    "State": "Maharashtra",
+    "Generation (MU)": 45587.74,
+    "Other Sources Generation (MU)": 13907.44
+  },
+  {
+    "State": "Gujarat",
+    "Generation (MU)": 32065.83,
+    "Other Sources Generation (MU)": 27315.17
+  }
+]

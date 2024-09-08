@@ -1,0 +1,29 @@
+in the main page upper cards i used the data in InstalledCapacity.json, which i got from the this link - https://powermin.gov.in/en/content/power-sector-glance-all-india
+i used the same data to create the pie chart 
+
+then i am using sector-wise-energy-consumtion which is located in the raw-data folder to create a stacked bar graph
+
+
+// solar generration
+// house hold 
+// installation InstalledCapacity
+
+
+-- code for displaying installation capacity of whole india
+
+  const fossilFuelData = InstalledCapacity["Fossil Fuel"];
+  const nonFossilFuelData = InstalledCapacity["Non-Fossil Fuel"];
+
+const createCapacityComponents = (data) => {
+    return Object.keys(data).map((key) => (
+      <div
+        className="capacity-component px-[20px] py-[3px] rounded-2xl bg-[#fcfef5] flex flex-col justify-center items-center text-sm"
+        key={key}
+      >
+        <span className="topgraph-maintxt">{key}</span>
+        <span className="topgraph-subtxt">
+          {data[key]["Installed Generation Capacity (MW)"].toLocaleString()}{" "}
+        </span>
+      </div>
+    ));
+  };

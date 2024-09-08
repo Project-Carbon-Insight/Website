@@ -1,0 +1,492 @@
+[
+  {
+    "Year": "2015-16",
+    "Source": "Coal",
+    "Generation (BU)": 896.3
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 47.5
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Nuclear",
+    "Generation (BU)": 37.4
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Hydro",
+    "Generation (BU)": 121.4
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Wind",
+    "Generation (BU)": 33
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Solar",
+    "Generation (BU)": 7.4
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Bio Power",
+    "Generation (BU)": 16.95
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 8.4
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Total",
+    "Generation (BU)": 1168
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Coal",
+    "Generation (BU)": 944
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 49.5
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Nuclear",
+    "Generation (BU)": 37.9
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Hydro",
+    "Generation (BU)": 122.4
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Wind",
+    "Generation (BU)": 46
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Solar",
+    "Generation (BU)": 13.5
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Bio Power",
+    "Generation (BU)": 14.44
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 7.9
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Total",
+    "Generation (BU)": 1236
+  },
+  {
+    "Year": "2016-17",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "5.82 %"
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Coal",
+    "Generation (BU)": 986.6
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 50.6
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Nuclear",
+    "Generation (BU)": 38.3
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Hydro",
+    "Generation (BU)": 126.1
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Wind",
+    "Generation (BU)": 52.7
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Solar",
+    "Generation (BU)": 25.9
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Bio Power",
+    "Generation (BU)": 15.61
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 7.7
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Total",
+    "Generation (BU)": 1304
+  },
+  {
+    "Year": "2017-18",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "5.50 %"
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Coal",
+    "Generation (BU)": 1022.3
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 50
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Nuclear",
+    "Generation (BU)": 37.8
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Hydro",
+    "Generation (BU)": 134.9
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Wind",
+    "Generation (BU)": 62
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Solar",
+    "Generation (BU)": 39.3
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Bio Power",
+    "Generation (BU)": 16.75
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 8.7
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Total",
+    "Generation (BU)": 1372
+  },
+  {
+    "Year": "2018-19",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "5.21 %"
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Coal",
+    "Generation (BU)": 994.2
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 48.61
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Nuclear",
+    "Generation (BU)": 46.38
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Hydro",
+    "Generation (BU)": 155.97
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Wind",
+    "Generation (BU)": 64.64
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Solar",
+    "Generation (BU)": 50.1
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Bio Power",
+    "Generation (BU)": 14.21
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 9.37
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Total",
+    "Generation (BU)": 1383
+  },
+  {
+    "Year": "2019-20",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "0.80 %"
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Coal",
+    "Generation (BU)": 981.44
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 51.07
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Nuclear",
+    "Generation (BU)": 43.03
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Hydro",
+    "Generation (BU)": 150.3
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Wind",
+    "Generation (BU)": 60.15
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Solar",
+    "Generation (BU)": 60.4
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Bio Power",
+    "Generation (BU)": 16.44
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 10.26
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Total",
+    "Generation (BU)": 1373
+  },
+  {
+    "Year": "2020-21",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "-0.72 %"
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Coal",
+    "Generation (BU)": 1078.58
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 36.13
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Nuclear",
+    "Generation (BU)": 47.11
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Hydro",
+    "Generation (BU)": 151.63
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Wind",
+    "Generation (BU)": 68.64
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Solar",
+    "Generation (BU)": 73.48
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Bio Power",
+    "Generation (BU)": 18.32
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 10.46
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Total",
+    "Generation (BU)": 1484
+  },
+  {
+    "Year": "2021-22",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "8.08 %"
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Coal",
+    "Generation (BU)": 1182.1
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 24.11
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Nuclear",
+    "Generation (BU)": 45.86
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Hydro",
+    "Generation (BU)": 162.1
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Wind",
+    "Generation (BU)": 71.81
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Solar",
+    "Generation (BU)": 102.01
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Bio Power",
+    "Generation (BU)": 18.55
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 11.17
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Total",
+    "Generation (BU)": 1618
+  },
+  {
+    "Year": "2022-23",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "9.03 %"
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Coal",
+    "Generation (BU)": 1294.85
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 31.7
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Nuclear",
+    "Generation (BU)": 47.94
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Hydro",
+    "Generation (BU)": 134.05
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Wind",
+    "Generation (BU)": 83.39
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Solar",
+    "Generation (BU)": 115.98
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Bio Power",
+    "Generation (BU)": 16.99
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 9.49
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Total",
+    "Generation (BU)": 1734
+  },
+  {
+    "Year": "2023-24",
+    "Source": "YoY Growth Rate",
+    "Generation (BU)": "7.17 %"
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Coal",
+    "Generation (BU)": 467.4
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Oil & Gas",
+    "Generation (BU)": 16.32
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Nuclear",
+    "Generation (BU)": 17.86
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Hydro",
+    "Generation (BU)": 51.94
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Wind",
+    "Generation (BU)": 36.75
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Solar",
+    "Generation (BU)": 45.82
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Bio Power",
+    "Generation (BU)": 3.41
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Small-Hydro",
+    "Generation (BU)": 2.44
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Total",
+    "Generation (BU)": 642
+  }
+]

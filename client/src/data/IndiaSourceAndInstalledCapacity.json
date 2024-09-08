@@ -1,0 +1,492 @@
+[
+  {
+    "Year": "2015-16",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 185.17
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.5
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 5.78
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 42.78
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 26.78
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 6.76
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 8.11
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.27
+  },
+  {
+    "Year": "2015-16",
+    "Source": "Total",
+    "Installed Capacity (GW)": 305
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 192.16
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 26.17
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 44.48
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 32.28
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 12.29
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 8.3
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.38
+  },
+  {
+    "Year": "2016-17",
+    "Source": "Total",
+    "Installed Capacity (GW)": 327
+  },
+  {
+    "Year": "2016-17",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "7.21 %"
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 197.17
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.74
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 45.29
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 34.05
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 21.65
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 8.84
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.49
+  },
+  {
+    "Year": "2017-18",
+    "Source": "Total",
+    "Installed Capacity (GW)": 344
+  },
+  {
+    "Year": "2017-18",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "5.20 %"
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 200.71
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.58
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 45.4
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 35.63
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 28.18
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 9.24
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.59
+  },
+  {
+    "Year": "2018-19",
+    "Source": "Total",
+    "Installed Capacity (GW)": 356
+  },
+  {
+    "Year": "2018-19",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "3.49 %"
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 205.13
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.46
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 45.7
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 37.69
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 34.63
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 10.02
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.68
+  },
+  {
+    "Year": "2019-20",
+    "Source": "Total",
+    "Installed Capacity (GW)": 370
+  },
+  {
+    "Year": "2019-20",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "3.93 %"
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 209.29
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.43
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 46.21
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 39.25
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 40.09
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 10.31
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.79
+  },
+  {
+    "Year": "2020-21",
+    "Source": "Total",
+    "Installed Capacity (GW)": 382
+  },
+  {
+    "Year": "2020-21",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "3.24 %"
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 210.7
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.41
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 46.72
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 40.36
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 54
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 10.68
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.85
+  },
+  {
+    "Year": "2021-22",
+    "Source": "Total",
+    "Installed Capacity (GW)": 400
+  },
+  {
+    "Year": "2021-22",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "4.71 %"
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 211.86
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.41
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 6.78
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 46.85
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 42.63
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 66.78
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 10.8
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 4.94
+  },
+  {
+    "Year": "2022-23",
+    "Source": "Total",
+    "Installed Capacity (GW)": 416
+  },
+  {
+    "Year": "2022-23",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "4.00 %"
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 217.59
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.63
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 8.18
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 46.93
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 45.89
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 81.81
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 10.94
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 5
+  },
+  {
+    "Year": "2023-24",
+    "Source": "Total",
+    "Installed Capacity (GW)": 442
+  },
+  {
+    "Year": "2023-24",
+    "Source": "YoY Growth Rate",
+    "Installed Capacity (GW)": "6.25 %"
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Coal",
+    "Installed Capacity (GW)": 217.59
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Oil & Gas",
+    "Installed Capacity (GW)": 25.41
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Nuclear",
+    "Installed Capacity (GW)": 8.18
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Hydro",
+    "Installed Capacity (GW)": 46.93
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Wind",
+    "Installed Capacity (GW)": 47.08
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Solar",
+    "Installed Capacity (GW)": 87.21
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Bio Power",
+    "Installed Capacity (GW)": 10.96
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Small-Hydro",
+    "Installed Capacity (GW)": 5.04
+  },
+  {
+    "Year": "2024-25",
+    "Source": "Total",
+    "Installed Capacity (GW)": 448
+  }
+]

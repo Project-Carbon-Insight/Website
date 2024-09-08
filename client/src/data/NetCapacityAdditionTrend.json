@@ -1,0 +1,112 @@
+[
+  {
+    "Year": "2015-16",
+    "Bio Power Installed Capacity (GW)": 0.3,
+    "Coal Installed Capacity (GW)": 20.54,
+    "Hydro Installed Capacity (GW)": 1.52,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": 1.24,
+    "Small-Hydro Installed Capacity (GW)": 0.22,
+    "Solar Installed Capacity (GW)": 3.02,
+    "Wind Installed Capacity (GW)": 3.42
+  },
+  {
+    "Year": "2016-17",
+    "Bio Power Installed Capacity (GW)": 0.19,
+    "Coal Installed Capacity (GW)": 6.99,
+    "Hydro Installed Capacity (GW)": 1.7,
+    "Nuclear Installed Capacity (GW)": 1,
+    "Oil & Gas Installed Capacity (GW)": 0.66,
+    "Small-Hydro Installed Capacity (GW)": 0.11,
+    "Solar Installed Capacity (GW)": 5.53,
+    "Wind Installed Capacity (GW)": 5.5
+  },
+  {
+    "Year": "2017-18",
+    "Bio Power Installed Capacity (GW)": 0.54,
+    "Coal Installed Capacity (GW)": 5.01,
+    "Hydro Installed Capacity (GW)": 0.81,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": -0.43,
+    "Small-Hydro Installed Capacity (GW)": 0.11,
+    "Solar Installed Capacity (GW)": 9.36,
+    "Wind Installed Capacity (GW)": 1.77
+  },
+  {
+    "Year": "2018-19",
+    "Bio Power Installed Capacity (GW)": 0.4,
+    "Coal Installed Capacity (GW)": 3.53,
+    "Hydro Installed Capacity (GW)": 0.11,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": -0.16,
+    "Small-Hydro Installed Capacity (GW)": 0.11,
+    "Solar Installed Capacity (GW)": 6.53,
+    "Wind Installed Capacity (GW)": 1.58
+  },
+  {
+    "Year": "2019-20",
+    "Bio Power Installed Capacity (GW)": 0.78,
+    "Coal Installed Capacity (GW)": 4.43,
+    "Hydro Installed Capacity (GW)": 0.3,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": -0.11,
+    "Small-Hydro Installed Capacity (GW)": 0.09,
+    "Solar Installed Capacity (GW)": 6.45,
+    "Wind Installed Capacity (GW)": 2.07
+  },
+  {
+    "Year": "2020-21",
+    "Bio Power Installed Capacity (GW)": 0.29,
+    "Coal Installed Capacity (GW)": 4.16,
+    "Hydro Installed Capacity (GW)": 0.51,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": -0.03,
+    "Small-Hydro Installed Capacity (GW)": 0.1,
+    "Solar Installed Capacity (GW)": 5.46,
+    "Wind Installed Capacity (GW)": 1.55
+  },
+  {
+    "Year": "2021-22",
+    "Bio Power Installed Capacity (GW)": 0.37,
+    "Coal Installed Capacity (GW)": 1.4,
+    "Hydro Installed Capacity (GW)": 0.51,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": -0.02,
+    "Small-Hydro Installed Capacity (GW)": 0.06,
+    "Solar Installed Capacity (GW)": 13.91,
+    "Wind Installed Capacity (GW)": 1.11
+  },
+  {
+    "Year": "2022-23",
+    "Bio Power Installed Capacity (GW)": 0.12,
+    "Coal Installed Capacity (GW)": 1.16,
+    "Hydro Installed Capacity (GW)": 0.13,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": 0,
+    "Small-Hydro Installed Capacity (GW)": 0.1,
+    "Solar Installed Capacity (GW)": 12.78,
+    "Wind Installed Capacity (GW)": 2.28
+  },
+  {
+    "Year": "2023-24",
+    "Bio Power Installed Capacity (GW)": 0.14,
+    "Coal Installed Capacity (GW)": 5.73,
+    "Hydro Installed Capacity (GW)": 0.08,
+    "Nuclear Installed Capacity (GW)": 1.4,
+    "Oil & Gas Installed Capacity (GW)": 0.22,
+    "Small-Hydro Installed Capacity (GW)": 0.06,
+    "Solar Installed Capacity (GW)": 15.03,
+    "Wind Installed Capacity (GW)": 3.26
+  },
+  {
+    "Year": "2024-25",
+    "Bio Power Installed Capacity (GW)": 0.02,
+    "Coal Installed Capacity (GW)": 0,
+    "Hydro Installed Capacity (GW)": 0,
+    "Nuclear Installed Capacity (GW)": 0,
+    "Oil & Gas Installed Capacity (GW)": -0.22,
+    "Small-Hydro Installed Capacity (GW)": 0.04,
+    "Solar Installed Capacity (GW)": 5.4,
+    "Wind Installed Capacity (GW)": 1.19
+  }
+]

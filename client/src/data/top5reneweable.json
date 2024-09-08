@@ -1,0 +1,27 @@
+[
+  {
+    "State": "Rajasthan",
+    "Generation (MU)": 19986.06,
+    "Other Sources Generation (MU)": 25286.82
+  },
+  {
+    "State": "Gujarat",
+    "Generation (MU)": 16613.86,
+    "Other Sources Generation (MU)": 42767.14
+  },
+  {
+    "State": "Tamil Nadu",
+    "Generation (MU)": 12633.45,
+    "Other Sources Generation (MU)": 32713.14
+  },
+  {
+    "State": "Karnataka",
+    "Generation (MU)": 11254.73,
+    "Other Sources Generation (MU)": 21497.68
+  },
+  {
+    "State": "Andhra Pradesh",
+    "Generation (MU)": 6683.68,
+    "Other Sources Generation (MU)": 25655.02
+  }
+]

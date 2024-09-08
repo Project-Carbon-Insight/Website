@@ -1,0 +1,31 @@
+.gallary-r1 img {
+  width: 300px;
+  height: 200px;
+}
+.gallary-r2 img {
+  height: 300px;
+  width: 800px;
+}
+
+.gallary-r3 img {
+  height: 200px;
+  width: 350px;
+}
+
+.gallary-r4 img {
+  width: 550px;
+  height: 200px;
+}
+
+.gallary-wrapper {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.gallary-r1 {
+  display: flex;
+}
+
+.gallary-r1 img {
+  display: block;
+}
